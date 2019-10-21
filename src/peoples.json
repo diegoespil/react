@@ -1,0 +1,24 @@
+{
+    "peoples": [
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "edad": 15
+        },
+        {
+            "nombre": "Lucas",
+            "apellido": "Perez",
+            "edad": 18
+        },
+        {
+            "nombre": "Matias",
+            "apellido": "Suarez",
+            "edad": 25
+        },
+        {
+            "nombre": "Matias",
+            "apellido": "Suarez",
+            "edad": 25
+        }
+    ]
+}
